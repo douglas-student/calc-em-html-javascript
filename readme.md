@@ -1,6 +1,8 @@
 # Calculadora Simples em HTML, CSS e JavaScript
 
-Esta é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. A calculadora suporta operações básicas de adição, subtração, multiplicação e divisão, além de permitir a inserção de números decimais. Também inclui botões para parênteses "(" e ")".
+Esta é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. A calculadora suporta operações básicas de adição, subtração, multiplicação e divisão, além de permitir a inserção de números decimais.
+
+<center><img src='screenshot.png' /></center>
 
 ## Funcionalidades
 
